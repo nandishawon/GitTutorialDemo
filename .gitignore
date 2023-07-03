@@ -1,0 +1,5 @@
+*.log
+/dir/
+static/dir/
+database1.accdb
+abcd
